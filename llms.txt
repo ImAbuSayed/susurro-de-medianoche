@@ -1,4 +1,4 @@
-# Susurro de medianoche
+# Susurro de medianoche, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Susurro de medianoche |
+| **Title** | Susurro de medianoche, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Susurro de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-medianoche/) |
+| **Get License** | [Music Rights & Licensing for Susurro de medianoche, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime qué buscas a esta hora en la ciudad
+> Yo sé que tú quieres volar en la oscuridad
+> Tienes un brillo que paraliza el reloj
+> Hoy somos tú y yo mami apaga la voz
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7e295038618e289daf5e53ee767a275d2c0db2cebd78c77691d55d612b74f291` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

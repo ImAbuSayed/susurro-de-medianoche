@@ -1,6 +1,6 @@
 # License
 
-**Susurro de medianoche**
+**Susurro de medianoche, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
